@@ -111,5 +111,12 @@
     "name": "picture-in-picture-exit",
     "svg": "picture-in-picture-exit.svg",
     "root-dir": "./custom-icons/"
+  }, {
+    "name": "schedule",
+    "svg": "action/svg/production/ic_schedule_48px.svg"
+  }, {
+    "name": "integration-instructions",
+    "svg": "integration_instructions_materialicons_24px.svg",
+    "root-dir": "./custom-icons/"
   }]
 }
